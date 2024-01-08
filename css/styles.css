@@ -354,6 +354,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  line-height: 1.11;
 }
 
 .customers-list {
@@ -373,7 +374,7 @@ body {
   height: 100%;
 
   border: 1px solid #8e8f99;
-  border-radius: 5px;
+  border-radius: 4px;
   display: flex;
   justify-content: center;
   align-items: center;
