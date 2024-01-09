@@ -204,6 +204,12 @@ body {
   max-width: 1440px;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .section {
   background-color: var(--white-color);
   padding-top: 120px;
